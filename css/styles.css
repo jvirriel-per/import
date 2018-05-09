@@ -1,0 +1,75 @@
+.container {
+    margin-top: 0px;
+}
+body {
+	background: url(../images/2.jpg) no-repeat center center fixed;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        background-size: cover;
+        
+    
+}
+
+ul {
+	list-style: none;
+}
+
+.error {
+	border-color: red;
+	background-color: #FFD5D5;
+}
+h2 {
+    color: #777;
+    font-family: arial;
+    font-size: 27px;
+    margin: 0px;
+    text-align: center;
+}
+h5 {
+    color: #777;
+    font-family: arial;
+    font-size: 15px;
+    margin: 15px;
+    text-align: center;
+}
+h3 {
+    color: #777;
+    font-family: arial;
+    font-size: 27px;
+    margin: 15px;
+    text-align: center;
+}
+#centro{
+	background-color: #000;
+	color: white;
+	padding: 150px;
+	text-align: center;
+	font-family: helvetica;
+	margin-top:200px;
+}
+.sociales {
+    text-align: center;
+}
+.vFlotante {
+	position:absolute;
+	left:72%;
+	top:15%;
+	width:250px;
+	height:200px;
+	transition:all .4s ease-in;
+	-webkit-transition:all .4s ease-in;
+	-moz-transition:all .4s ease-in;
+	-o-transition:all .4s ease-in;
+}
+.logo{
+	position:relative;
+	top:0px;
+	left:-40px;
+}
+.vFlotante2 {
+	position:absolute;
+	left:72%;
+	top:2%;
+	
+}
